@@ -23,7 +23,7 @@ public class H264Encoder {
     // bbbbb  dddddddd
     // ccccc
     // 111
-    // master 222
+    // master 222 2
     // dev 222
     private MediaCodec mediaCodec;
 
