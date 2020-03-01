@@ -16,9 +16,9 @@ import java.util.concurrent.ArrayBlockingQueue;
  * H264 编码类
  */
 public class H264Encoder {
-
     private final static int TIMEOUT_USEC = left12000;
     ///aaaaa
+    //=======
     private MediaCodec mediaCodec;
 
     public boolean isRuning = false;
