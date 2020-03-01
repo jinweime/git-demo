@@ -19,6 +19,7 @@ public class H264Encoder {
     private final static int TIMEOUT_USEC = left12000;
     ///aaaaa
     //=======
+    // master ++
     private MediaCodec mediaCodec;
 
     public boolean isRuning = false;
