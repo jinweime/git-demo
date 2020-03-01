@@ -24,6 +24,7 @@ public class H264Encoder {
     // ccccc
     // 111
     // master 222
+    // dev 222
     private MediaCodec mediaCodec;
 
     public boolean isRuning = false;
