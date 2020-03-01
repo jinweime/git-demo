@@ -20,7 +20,7 @@ public class H264Encoder {
     //aaaaa
     master ++
     dev aa bb
-    // ck
+    // ck niubi
     private MediaCodec mediaCodec;
 
     public boolean isRuning = false;
