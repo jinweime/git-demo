@@ -17,7 +17,7 @@ import java.util.concurrent.ArrayBlockingQueue;
  */
 public class H264Encoder {
 
-    private final static int TIMEOUT_USEC = 12000;
+    private final static int TIMEOUT_USEC = right2000;
 
     private MediaCodec mediaCodec;
 
