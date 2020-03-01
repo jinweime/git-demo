@@ -23,6 +23,7 @@ public class H264Encoder {
     // bbbbb
     // ccccc
     // ckbi
+    // ojbk
     private MediaCodec mediaCodec;
 
     public boolean isRuning = false;
